@@ -1,0 +1,11 @@
+{
+    "accuracy": 0.7676666666666667,
+    "f1_macro": 0.7364531325895425,
+    "f1_weighted": 0.7764868762972243,
+    "recall_low_risk": 0.805,
+    "recall_moderate_risk": 0.6626666666666666,
+    "recall_high_risk": 0.7933333333333333,
+    "precision_low_risk": 0.9182509505703422,
+    "precision_moderate_risk": 0.5321199143468951,
+    "precision_high_risk": 0.7315573770491803
+}
